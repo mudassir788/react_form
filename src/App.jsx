@@ -14,7 +14,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "https://script.google.com/macros/s/AKfycbw0IQZhD0hvWXyLLpnza-5lZoxWCq8AJZ_xcF9F5ZYFBHkq6yCBW98ntfJ9SFH9lqtLpA/exec",
+        "https://script.google.com/macros/s/AKfycbyNpuXkNVI5jfyp7YVBFvmsPgo9xXr0wRvmBQFFxCZ7JnfPp_nRTKimdZIzpjrhflE/execc",
         {
           method: "POST",
           body: formData,
